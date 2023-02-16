@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vudangthinh
 - 👀 I’m interested in Data Science, Machine Learning
-- 🌱 I’m currently learning Text Summarization algorithms
 - 📫 How to reach me https://www.linkedin.com/in/vudangthinh/
 
 <!---
